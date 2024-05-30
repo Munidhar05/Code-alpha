@@ -18,7 +18,7 @@ faqs = {
     "What is the estimated delivery time?": "The estimated delivery time depends on your location and the shipping method chosen. Typically, it ranges from 3 to 10 business days.",
 }
 
-# Adding basic intent recognition
+
 general_responses = {
     "greeting": ["Hello! How can I assist you today?", "Hi there! What can I do for you?", "Greetings! How may I help you?"],
     "goodbye": ["Goodbye! Have a great day!", "Bye! Feel free to reach out if you have more questions.", "Take care!"],
